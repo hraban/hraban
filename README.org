@@ -1,0 +1,5 @@
+I work on Nix & Common Lisp.
+
+My passion project is [[https://github.com/hraban/cl-nix-lite][cl-nix-lite]], a Common Lisp package scope for Nix, without Quicklisp.
+
+My work is released under the AGPLv3. I am always willing to grant special commercial licenses, for a donation to me or the FSF.
