@@ -4,4 +4,4 @@ My passion project is [[https://github.com/hraban/cl-nix-lite][cl-nix-lite]], a 
 
 I also maintain [[https://github.com/hraban/tomono][tomono]], a multi-to-monorepository merge tool. It’s written entirely as a Literate Program.
 
-My work is released under the AGPLv3. I am always willing to grant special commercial licenses, for a donation to me or the FSF.
+My work is dual licensed under AGPLv3 and commercial licensing. Contact me for details (payment options include a donation to the FSF)
