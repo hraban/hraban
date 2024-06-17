@@ -1,7 +1,5 @@
-Nix, Common Lisp, Emacs and literate programming.
-
 My passion project is [[https://github.com/hraban/cl-nix-lite][cl-nix-lite]], a Common Lisp package scope for Nix, without Quicklisp.
 
 I also maintain [[https://github.com/hraban/tomono][tomono]], a multi-to-monorepository merge tool. It’s written entirely as a Literate Program.
 
-My work is dual licensed under AGPLv3 and commercial licensing. Contact me for details (payment options include a donation to the FSF)
+My work is dual licensed under AGPLv3 and commercial licensing.
